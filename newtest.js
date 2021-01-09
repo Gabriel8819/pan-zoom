@@ -143,7 +143,3 @@ function mouseWheel(e){
 
 
 
-
-
-
-//canvas 2d  --- 3d effect
